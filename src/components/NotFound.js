@@ -1,1 +1,1 @@
-import React from "react";const NotFound =()=>{    return(        <div>            <h2> The Pages is Note Found</h2>        </div>    )}export default NotFound;
+import React from "react";const NotFound = () => {    return (        <div>            <h2> The Pages is Note Found</h2>        </div>    )}export default NotFound;
